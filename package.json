@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "reveal-md readme.md --theme solarized",
+    "start": "reveal-md slides.md --theme solarized",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
